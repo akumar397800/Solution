@@ -5,7 +5,7 @@ the main class is LongestCompound
 this program calculate the longest and the second longest words in a file
 that can be constructed by concatenating copies of shorter words 
 also found in the file. 
- total amount of compound words can also be calculated.
+  
  
 Pair class is used to store a pair of word .
 
